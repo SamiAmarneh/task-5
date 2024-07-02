@@ -1,0 +1,14 @@
+.pizza{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+   
+    gap: 50px;
+}
+
+.info img{
+    width:400px ; 
+    height: 400px;
+}
